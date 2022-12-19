@@ -1,0 +1,8 @@
+MOV AL,[b]
+MOV BL,[c]
+MUL BL
+MOV DH,AL
+MOV AL,[a]
+MOV BL,DH
+MUL BL
+MOV DL,AL

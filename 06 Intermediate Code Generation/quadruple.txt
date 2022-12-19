@@ -1,0 +1,4 @@
+Operator	Op1	Op2	Result
+*	a	b	t1
+*	c	d	t2
++	t1	t2	t3

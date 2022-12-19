@@ -1,0 +1,7 @@
+Lexeme  	 L.no 	 Token 
+main 		 1	 Identifier
+a 		 2	 Identifier
+b 		 3	 Identifier, 5
+c 		 4	 Identifier, 0
+ch 		 5	 Identifier
+c 		 6	 Identifier
